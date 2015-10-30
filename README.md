@@ -2,7 +2,6 @@
 
 This is the server code for the Internet of Drinks Project.
 
-
 ##Hardware
 
 You'll need:
